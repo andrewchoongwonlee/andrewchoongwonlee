@@ -2,7 +2,7 @@
 Recently changed my username from `choongwonl` to `andrewchoongwonlee`
 
 Updated resume website
-[English](https://choongwonl.ee), [한국어](https://choongwonl.ee/ko/)
+[English](https://choongwonl.ee) | [한국어](https://choongwonl.ee/ko/)
 <!--
 **choongwonl/choongwonl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
